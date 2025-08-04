@@ -24,3 +24,5 @@ If you aim to explore everything this darknet marketplace offers, prioritize you
 
 <a href="http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion"><img src="/placeholders/dark.webp" alt="image" style="max-width: 100%;"><a>  
 <a href="http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion"><img src="/placeholders/opaque.webp" alt="image" style="max-width: 100%;"><a>
+
+Update:  08/04/2025 Link is now clickable
